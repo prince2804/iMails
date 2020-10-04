@@ -11,7 +11,7 @@
                     <a href="https://github.com/ankesh06g"><i class="fab fa-github" target="_blank"></i></a>&nbsp;&nbsp;
                     <a href="https://www.youtube.com/channel/UCajCBee6FiNo-gRHoGd-PCA" target="_blank"><i class="fab fa-youtube"></i></a>&nbsp;&nbsp;
                     <a href=https://linkedin.com/in/ankesh-gaikwad-4a2701134"><i class="fab fa-linkedin-in" target="_blank"></i></a><br>
-                <span class="copyright">All copyrights reserved © iMails 2018
+                <span class="copyright">iMails 2018
                 </span>
             </center>
         </div>
