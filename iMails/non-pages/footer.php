@@ -6,11 +6,11 @@
                 }
             </style>
             <center>
-                <a href="https://www.facebook.com/CompRepository-457159251436485" target="_blank"><i class="fab fa-facebook-f"></i></a>&nbsp;&nbsp;
-                    <a href="https://twitter.com/Ankesh_AAG"><i class="fab fa-twitter" target="_blank"></i></a>&nbsp;&nbsp;
-                    <a href="https://github.com/ankesh06g"><i class="fab fa-github" target="_blank"></i></a>&nbsp;&nbsp;
-                    <a href="https://www.youtube.com/channel/UCajCBee6FiNo-gRHoGd-PCA" target="_blank"><i class="fab fa-youtube"></i></a>&nbsp;&nbsp;
-                    <a href=https://linkedin.com/in/ankesh-gaikwad-4a2701134"><i class="fab fa-linkedin-in" target="_blank"></i></a><br>
+                <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>&nbsp;&nbsp;
+                    <a href="https://twitter.com"><i class="fab fa-twitter" target="_blank"></i></a>&nbsp;&nbsp;
+                    <a href="https://github.com/prince2804/iMails"><i class="fab fa-github" target="_blank"></i></a>&nbsp;&nbsp;
+                    <a href="https://www.youtube.com/channel" target="_blank"><i class="fab fa-youtube"></i></a>&nbsp;&nbsp;
+                    <a href="https://www.linkedin.com/feed/"><i class="fab fa-linkedin-in" target="_blank"></i></a><br>
                 <span class="copyright">iMails 2018
                 </span>
             </center>
